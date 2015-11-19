@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Na Ponta do Dedo</string>
+    <string name="tela_receitas">Receitas</string>
+    <string name="tela_gastos">Gastos</string>
+    <string name="tela_poupanca">Poupança</string>
+
+    <string name="nova_categoria">Nova Categoria</string>
+    <string name="receitas_atrasadas">Consultar Atrasadas</string>
+    <string name="receitas_mes">Alterar Mês</string>
+
+</resources>
